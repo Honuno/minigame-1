@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 29
-  productGUID: 2993c0464503f4b8d8db8d612ddd19de
+  productGUID: d263b0a82f2a24f6a9eea8b97987590a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: minigame1
+  productName: minigame-1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
@@ -515,7 +515,7 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
-  ps4Passcode: DjMdb0ecpvOfEetGjSZvbHWcnEiIoCvz
+  ps4Passcode: OHFCsw0pqz8OQ6quFX5QK67eBwoI2h06
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -604,14 +604,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: minigame1
+  metroPackageName: minigame-1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: minigame1
+  metroApplicationDescription: minigame-1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
